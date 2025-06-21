@@ -8,7 +8,6 @@ From analyzing returns and risk to running statistical stationarity tests,
 for analysts, traders, and data science enthusiasts alike.
 
 ## What It *Actually* Does
-
 ### 1. Cuts Through the Noise
 - "239% return!" → _But at 52% volatility and a 16% max loss._
 - "Beating the market!" → _With 1.6× more risk (Beta)._
