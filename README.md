@@ -1,5 +1,4 @@
 # Street Quant
-
 **Numbers don't lie, but most stock tools do.**  
 This is different, it is like having a Wall Street quant in your pocket.  
 No fluff. No confusing jargon. Just cold, hard facts about your investments.
