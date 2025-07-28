@@ -61,6 +61,4 @@ This tool gives you:
 <p align="center">
   <img src="https://raw.githubusercontent.com/pavit15/StreetQuant/main/images/img%20(2).jpg" width="600">
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pavit15/StreetQuant/main/images/img1.jpg" width="600">
-</p>
+![Dashboard Screenshot](https://raw.githubusercontent.com/pavit15/StreetQuant/main/images/img1.jpg)
