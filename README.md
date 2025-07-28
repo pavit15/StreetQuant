@@ -6,6 +6,9 @@ No fluff. No confusing jargon. Just cold, hard facts about your investments.
 From analyzing returns and risk to running statistical stationarity tests,  
 **Street Quant bridges the gap between quantitative finance and usability**  
 for analysts, traders, and data science enthusiasts alike.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pavit15/StreetQuant/main/images/img%20(7).jpg" width="600">
+</p>
 
 ## What It *Actually* Does
 ### 1. Cuts Through the Noise
@@ -32,6 +35,16 @@ This tool gives you:
 - **Q-Q plots** expose if gains are statistical noise  
 - **Risk-return plots** compare your picks to the **actual market**
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pavit15/StreetQuant/main/images/img%20(5).jpg" width="600">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pavit15/StreetQuant/main/images/img%20(4).jpg" width="600">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pavit15/StreetQuant/main/images/img%20(3).jpg" width="600">
+</p>
 
 ###  Analysis Performed:
 | Section | Description |
@@ -41,3 +54,13 @@ This tool gives you:
 | **Risk Dashboard** | Rolling risk plots, drawdowns |
 | **Statistical View** | Q-Q plots, ADF test, skewness, kurtosis |
 | **Benchmark Comparison** | Risk-return vs. SPY |
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pavit15/StreetQuant/main/images/img%20(6).jpg" width="600">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pavit15/StreetQuant/main/images/img%20(2).jpg" width="600">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pavit15/StreetQuant/main/images/img%20(1).jpg" width="600">
+</p>
