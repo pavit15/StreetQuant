@@ -7,7 +7,7 @@ From analyzing returns and risk to running statistical stationarity tests,
 **Street Quant bridges the gap between quantitative finance and usability**  
 for analysts, traders, and data science enthusiasts alike.
 
-<img width="580" height="450" alt="image" src="https://github.com/user-attachments/assets/0cb430fc-61b1-4e49-858a-23aba1893d9d" />
+<img width="880" height="550" alt="image" src="https://github.com/user-attachments/assets/0cb430fc-61b1-4e49-858a-23aba1893d9d" />
 
 ## What It *Actually* Does
 ### 1. Cuts Through the Noise
@@ -49,7 +49,7 @@ This tool gives you:
 | **Statistical View** | Q-Q plots, ADF test, skewness, kurtosis |
 | **Benchmark Comparison** | Risk-return vs. SPY |
 
-<img width="1280" height="733" alt="image" src="https://github.com/user-attachments/assets/e405e6ac-fcf3-4f89-8976-88f7de4350e6" />
+<img width="400" height="243" alt="image" src="https://github.com/user-attachments/assets/e405e6ac-fcf3-4f89-8976-88f7de4350e6" />
 
-<img width="371" height="230" alt="image" src="https://github.com/user-attachments/assets/a825c086-0a86-4557-8a6d-2a1d0a570086" />
-<img width="970" height="240" alt="image" src="https://github.com/user-attachments/assets/fcac70bc-c6d6-4837-a062-60052dc6b000" />
+<img width="400" height="230" alt="image" src="https://github.com/user-attachments/assets/a825c086-0a86-4557-8a6d-2a1d0a570086" />
+<img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/fcac70bc-c6d6-4837-a062-60052dc6b000" />
