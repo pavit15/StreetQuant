@@ -49,7 +49,7 @@ This tool gives you:
 | **Statistical View** | Q-Q plots, ADF test, skewness, kurtosis |
 | **Benchmark Comparison** | Risk-return vs. SPY |
 
-<img width="400" height="243" alt="image" src="https://github.com/user-attachments/assets/e405e6ac-fcf3-4f89-8976-88f7de4350e6" />
+<img width="400" height="260" alt="image" src="https://github.com/user-attachments/assets/e405e6ac-fcf3-4f89-8976-88f7de4350e6" />
 
-<img width="400" height="230" alt="image" src="https://github.com/user-attachments/assets/a825c086-0a86-4557-8a6d-2a1d0a570086" />
-<img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/fcac70bc-c6d6-4837-a062-60052dc6b000" />
+<img width="400" height="260" alt="image" src="https://github.com/user-attachments/assets/a825c086-0a86-4557-8a6d-2a1d0a570086" />
+<img width="400" height="260" alt="image" src="https://github.com/user-attachments/assets/fcac70bc-c6d6-4837-a062-60052dc6b000" />
